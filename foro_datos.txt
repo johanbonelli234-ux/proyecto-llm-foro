@@ -1,0 +1,5 @@
+Juan, 2026-07-20, ¿Alguien sabe cómo se conecta la API con el archivo de texto?
+María, 2026-07-20, Tienes que leer el archivo con Python en la Capa 1 y pasar los datos a la Capa 2.
+Carlos, 2026-07-21, No entiendo nada de esta materia y estoy muy frustrado con el código.
+Pedro, 2026-07-22, Miren este meme sobre programadores que encontré.
+Ana, 2026-07-23, Tengo un error de importación en la línea 5, ¿me ayudan?
