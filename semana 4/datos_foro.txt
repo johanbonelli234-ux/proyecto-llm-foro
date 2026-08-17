@@ -1,0 +1,5 @@
+jperez;2026-05-02;¿Alguien sabe cómo se configura la memoria caché en el simulador?
+mgomez;2026-05-02;Yo tuve el mismo problema, se soluciona cambiando el parámetro de bloque en el menú de configuración.
+lrodriguez;2026-05-03;No entiendo nada de esta unidad, estoy muy perdido y a punto de abandonar el curso.
+apena;2026-05-03;El clima está horrible hoy, alguien más se quedó sin luz en su casa?
+ctorres;2026-05-04;Gracias profe, con esa explicación del pipeline por fin me quedó claro el tema.
