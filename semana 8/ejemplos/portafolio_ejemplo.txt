@@ -1,0 +1,17 @@
+Durante este módulo trabajé principalmente con estructuras de datos lineales,
+en particular listas enlazadas y pilas. Al inicio me costó entender la
+diferencia entre una lista enlazada simple y una doblemente enlazada, pero
+después de implementar ambas en los laboratorios logré identificar en qué
+casos conviene usar cada una: la doblemente enlazada resulta más eficiente
+cuando necesito recorrer la estructura en ambos sentidos, aunque a costa de
+un mayor uso de memoria por los punteros adicionales.
+
+También apliqué el concepto de pila (LIFO) para resolver el problema de
+verificación de paréntesis balanceados, y comparé su comportamiento con el
+de una cola (FIFO) en el contexto de un simulador de atención por turnos.
+Esta comparación me ayudó a comprender mejor cuándo cada estructura resulta
+más adecuada según el orden en que se necesita procesar los elementos.
+
+Como siguiente paso, me gustaría profundizar en árboles binarios de
+búsqueda, ya que veo que comparten la lógica de nodos y punteros que ya
+manejo, pero agregan la complejidad de mantener un orden jerárquico.

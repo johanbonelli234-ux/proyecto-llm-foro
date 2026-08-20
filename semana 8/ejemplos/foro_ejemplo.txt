@@ -1,0 +1,9 @@
+# Formato: usuario|fecha|mensaje
+maria.lopez|2026-08-10|¿Alguien puede explicarme cómo se calcula la media móvil en el ejercicio 4?
+carlos.ruiz|2026-08-10|Hola María, la media móvil se calcula promediando los últimos N valores. Revisa la diapositiva 12 del módulo 3.
+ana.torres|2026-08-11|No entiendo nada de esta materia, llevo dos semanas atrasada y no sé por dónde empezar.
+jorge.diaz|2026-08-11|¿Alguien vio el partido de anoche? Estuvo increíble.
+lucia.fernandez|2026-08-12|Excelente aporte Carlos, tu explicación del ejercicio 4 fue muy clara y me ayudó a entender el resto del módulo.
+pedro.gomez|2026-08-12|Sigo sin poder ejecutar el código del laboratorio 2, me sale un error que no logro resolver y ya estoy muy frustrado.
+sofia.mendez|2026-08-13|El error del laboratorio 2 normalmente ocurre porque falta instalar la librería numpy. Prueba con pip install numpy.
+diego.paredes|2026-08-13|¿Cuándo es la fecha límite de entrega del proyecto final?
